@@ -1,6 +1,12 @@
 /* Web Fonts */
+body {
+    font-family: 'Merriweather', serif;
+}
 
 /* Global Layout */
+* {
+    box-sizing: border-box;
+}
 
 /* Base Styles */
 
