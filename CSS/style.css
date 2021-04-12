@@ -101,9 +101,9 @@ footer>p {
     display: flex;
     flex-direction: column;
 }
-.background_1 {
+/* .background_1 {
     background-color: rgba(95, 158, 160, .15);
-}
+} */
 
 /* Attribute Selectors + Combinators  */
 input[type="checkbox"],
